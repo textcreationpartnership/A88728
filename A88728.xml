@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last nevves from Ireland; or, a true relation of the sad estate and feares of Dublin, and of the siege of Tredaugh by the rebels: being a true copie of a letter dated the 19. of December, sent to a private gentleman in London. Together vvith a true relation of the rebels oath.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88728</idno><idno type="EEBO-CITATION">99859718</idno>
+  <idno type="VID">111814</idno>
+  <idno type="EEBO-PROQUEST">2240880107</idno>
+  
+            <idno type="STC">Wing L493</idno>
+            <idno type="STC">Thomason E181_5</idno>
+            <idno type="STC">ESTC R1469</idno>
+            <idno type="PROQUEST">99859718</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99859718e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88728)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111814)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 32:E181[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last nevves from Ireland; or, a true relation of the sad estate and feares of Dublin, and of the siege of Tredaugh by the rebels: being a true copie of a letter dated the 19. of December, sent to a private gentleman in London. Together vvith a true relation of the rebels oath.</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for VV. L.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The rebells oath: p. 5.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+               <term type="geographic_name">Wicklow (Ireland : County) --  History --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111814:1"/>
+            <p>THE LAST NEVVES FROM IRELAND; <hi>OR,</hi> A TRVE RELATION of the sad estate and feares of DUBLIN, and of the Siege of <hi>TREDAƲGH</hi> by the Rebels:</p>
+            <p>BEING A TRVE COPIE OF A Letter Dated the 19. of De<g ref="char:EOLhyphen"/>cember, Sent to a private Gen<g ref="char:EOLhyphen"/>tleman in London.</p>
+            <p>
+               <hi>TOGETHER</hi> VVITH A TRVE RE<g ref="char:EOLhyphen"/>lation of the Rebels Oath.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for VV.L. 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:111814:2"/>
+            <pb n="1" facs="tcp:111814:2"/>
+            <head>NEWES FROM DUBLIN.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>YOurs bearing date the 23. of Novemb. 1641. I have received, which was the more wel<g ref="char:EOLhyphen"/>come, in regard it brought me the first tidings of the Kings safe return to London. We are here in this Kingdom, in a lamentable case God knows, and I feare our Justices have not made our despe<g ref="char:EOLhyphen"/>rate and dangerous estate known in England, as it ought: for surely had they done it, I suppose the King would not have hazzarded the losse of this Kingdome, or suffered his loy<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll Subjects thus to be destroyed by a Romish rebellion. We thought that our ancient English, which are now turned Irish, would not have rebelled, and therefore deli<g ref="char:EOLhyphen"/>vered many of them armes, which are now Re<g ref="char:EOLhyphen"/>bels: The Lords of the Pale promised fidelity, and their assistance, upon which there were armes given to some of them. The Lord of Louth, and the Lord of Slane sent 500. mens armes back a<g ref="char:EOLhyphen"/>gaine, because he could get no men to take them: and yet without doubt there is neither of them but can procure 1000. men a piece that are now in re<g ref="char:EOLhyphen"/>bellion. And now forsooth, it is given out that those two Lords are taken prisoners by the rebels, and yet I have not heard that ever they medled
+<pb n="2" facs="tcp:111814:3"/>with a Papist, or a Papists goods: which hath made many a Protestant who have trusted to their friends to give their goods to them to keepe, when they durst not stay any longer: but as soon as they are gone, their goods are culled out from the Papists, be they Sheep, Cattle, Linning, or any other goods whatsoever, and taken away: there are but few men of any valuable estates, that shew themselves in the Rebellion, but live as though there were no such thing, plowing, and sowing without any molestation, or offering to re<g ref="char:EOLhyphen"/>sist, or help their poore English neighbours, who are betrayed by their owne servants, and destroy<g ref="char:EOLhyphen"/>ed by their next neighbours, who strip them, not leaving them one thred to cover their nakednesse, be they of what quality, or calling soever, Ladies or beggars, though it be before a thousand men. They have shed abundance of English blood, and have vowed to destroy all the Protestants now li<g ref="char:EOLhyphen"/>ving in Ireland: the which, if that we receive not strength speedily from England, I feare they will effect. Three parts of the Kingdome are already out, and every day they spread farther, for the Countrey people rise of themselves, as soon as it is reported that the Rebels are but neare them: We cannot now travell any way, five miles from Dublin without danger. It is reported that there are 30000. now in the County of Wicklow, who have promised to be with us before Munday breakfast next, but we feare them not much, if our Citizens prove not false, I meane the Papists, who without doubt are Rebels in heart. Our Ar<g ref="char:EOLhyphen"/>my here is not above 2000. and many of them
+<pb n="3" facs="tcp:111814:3"/>Papists: had we but 5000. Protostants more, wee should not feare what they could doe to Dublin, with their great numbers. Tredaugh hath been besieged by them this Moneth, Colonell Titch<g ref="char:EOLhyphen"/>bourne, with 500. men, and three troopes of horse defend it. There were 600. men, with about 60. horse going towards them from hence some ten dayes since, who were set upon by the Rebels, two miles short of Tredaugh, and for want of ex<g ref="char:EOLhyphen"/>perience in the Serjeant Major, and his Lievete<g ref="char:EOLhyphen"/>nant, who commanded a Counter-march, when the enemy charged them so; that they all lost their Armes, and about 200. slaine, the rest threw downe their Armes and fled: as long as Tredaugh holds out, we feare not much. On Munday last Colonell Titchbourne sent out into the Countrey for Corne, and in bringing of it home, he slew a<g ref="char:EOLhyphen"/>bout 300. of the Rebels. Colonell Coot went in<g ref="char:EOLhyphen"/>to the Countrey of Wicklow, to relieve Wicklow Castle, the Town being in the Rebels possession, who left it at Sir Charles Coots comming, and fled to the Mountaines upon the losse received neare Tredaugh, which was part of Sir Charles his Regiment: The State sent for Sir Charles back againe. The Rebels of Wicklow, the Coun<g ref="char:EOLhyphen"/>ty I meane: On Tuesday, as Sir Charles came homeward, marcht as he did on the Mountaine side, and sometimes were but a little more then musket shot off, at night Sir Charles lay in New<g ref="char:EOLhyphen"/>castle, and the Rebels on the next Mountaine, but on Wednesday about nine of the Clock they set upon Sir Charles in a narrow durty lane at Kil<g ref="char:EOLhyphen"/>coole Townes end, where he was in great danger,
+<pb n="4" facs="tcp:111814:4"/>but he by his vigilant care got into a field, and so past below the Towne, and so recovered a little hill, whereon he so behaved himselfe, that after three houres Skirmish with his 600. men, and one troope of horse, he put them to flight, they being valued to be 3000. at the least: Sir Charles is now Governour of our City: the Serjeant at Armes that was sent for Abell Morgan, tooke bond of him for his comming in the last Terme, but by reason of these troubles, our Terme was put off.</p>
+            <closer>
+               <salute>Farewell.</salute>
+            </closer>
+         </div>
+         <div type="oath">
+            <pb n="5" facs="tcp:111814:4"/>
+            <head>The Rebells Oath.</head>
+            <p>
+               <hi>I K. K.</hi> Do with firme faith beleeve and professe all and singular the Articles and prompts which the Catholick and Aposto<g ref="char:EOLhyphen"/>licke Roman Church beleeveth and confesseth; and to my dying will by Gods grace maintaine and defend the same faith against all Sectaries, Jewes, Athiests, and enemies whatsoever, even with the losse of my life, estate, and goods.</p>
+            <p>I doe vow also, and in conscience sencerely beleeve and acknow<g ref="char:EOLhyphen"/>ledge King <hi>Charles</hi> to be King of <hi>England, Scotland, France</hi> and <hi>Ireland;</hi> whose Priviledges, and Attributes, Prerogati<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es Royall <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o his Imperiall Crowne, and Royall dignity; I promise and vow to God to maintaine and defend by Gods Grace, against all evill affected persons be they of what country or sect soever, o<g ref="char:EOLhyphen"/>ven with the losse of my life, estate, and goods.</p>
+            <p>I promise and vow likewise to be true to my poore oppressed country, the Kingdome of <hi>Ireland,</hi> with the losse of life, goods, and estate; and will indeavour to free it from the bondage and grievous oppressions under which it groaneth by the meanes of e<g ref="char:EOLhyphen"/>vill Officers and Ministers of Justice, contrary to his Majesties gratious irtentions.</p>
+            <p>I do vow and promise to God to wrong no Catholicke, nor cha<g ref="char:EOLhyphen"/>lenge any estate of lands if so they be possessed of it before the Plantation began in the yeare <hi>1610.</hi> nor any lands possessed by any of them since then, so they bought it, or purchased it for mo<g ref="char:EOLhyphen"/>ney or otherwise.</p>
+            <p>And further, I promise and vow to make no difference of dispa<g ref="char:EOLhyphen"/>rity betwixt meere <hi>Irish,</hi> and them of the Pale, or betweene the old <hi>Irish</hi> and the new <hi>Irish,</hi> be they of what standing, calling, or qualite whatsoever: so they be professors of the holy Church and maintainers of the country liberties All; every of the precedent Articles I the aforesaid <hi>K. K.</hi> doe promise, vow, and sweare to maintaine and cause all others every where, I shall have power to maintaine and defend inviolate by Gads grace; So God helpe all those of this Gospell.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
